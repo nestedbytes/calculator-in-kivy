@@ -6,7 +6,7 @@ title = Calculator
 # (str) Package name
 package.name = Calculator
 # (str) Package domain (needed for android/ios packaging)
-package.domain = shourgamer2.tk
+package.domain = projects.shourgamer2.tk
 
 # (str) Source code where the main.py live
 source.dir = src/
